@@ -47,7 +47,7 @@ If you have any improvements or bug fixes, please feel free to fork this reposit
 
 ## License
 
-This project is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is released under the MIT License.
 
 ## Disclaimer
 
